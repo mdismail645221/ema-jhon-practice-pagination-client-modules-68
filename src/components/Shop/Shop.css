@@ -16,3 +16,19 @@
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+
+.pagination{
+    margin:  0px auto 50px;
+    width: 80%;
+}
+.pagination button {
+    padding: 5px 15px;
+    margin-right: 10px;
+}
+
+.selected{
+    background-color: yellow;
+    color: #851310;
+    padding: 8px 15px !important;
+}
